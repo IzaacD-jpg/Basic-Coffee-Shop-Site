@@ -1,36 +1,72 @@
 body {
-  background-color: #f8f3ef;
+  background-color: #e0e0e0;
   color: #3e2c23;
   font-family: 'Segoe UI', sans-serif;
 }
 .navbar {
-  background-color: #6f4e37;
+  background-color: #2c2c2c;
 }
 .navbar-brand, .nav-link {
-  color: #fff !important;
+  font-family: serif;
+  color: #ffffff !important;
   font-weight: bold;
 }
 .hero {
-  background-color: #d6ccc2;
-  padding: 60px 20px;
+  background-color: #000000;
+    background-image: url(https://th.bing.com/th/id/OIP.kKLaINnW1HPjZnEQRbM7jAHaEK?w=315&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3);
+     background-repeat: no-repeat;
+     background-position: center;
+  padding: 80px 40px;
   text-align: center;
 }
 .hero h1 {
+  font-family: serif;
+  color: #595959;
   font-size: 3rem;
   margin-bottom: 10px;
 }
 .menu-item {
-  background-color: #fff;
-  border-radius: 8px;
+  color: #fff;
+  background-color: #414141;
+ font-family: serif ;
+  border-radius: 8x;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   padding: 15px;
   margin-bottom: 15px;
+  
 }
 footer {
-  background-color: #6f4e37;
+  background-color: #616161;
   color: white;
   padding: 20px 10px;
   text-align: center;
   margin-top: 40px;
 }
 
+.button {
+  background-color: #373737; /* black */
+  border:  2px solid #cfcfcf;
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+  
+}
+
+.mb-3 {
+ font-family: serif;
+
+}
+
+.info-about-us {
+  font-family: serif;
+  font-size: large;
+}
+
+.mb-4 {
+font-family: serif;
+
+}
